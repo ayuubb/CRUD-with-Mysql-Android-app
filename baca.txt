@@ -6,5 +6,5 @@
 	- maka secara otomatis Table tb_pegawai akan tercipta
 3. Sedangkan file MyCRUD merupakan project Android Studio, kalian bisa membukanya menggunakan Android studio
 
-Terimakasih telah mengunjungi website kami
-kodingindonesia.com
+Terimakasih
+
